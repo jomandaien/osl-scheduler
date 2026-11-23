@@ -1,0 +1,8 @@
+# group RBWC - algorithm: PRIO
+# name arrival burst priority
+P1 0 7 3
+P2 3 5 1
+P3 4 9 5
+P4 4 7 2
+P5 4 8 2
+P6 4 4 4
